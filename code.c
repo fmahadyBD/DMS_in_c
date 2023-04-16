@@ -1,6 +1,5 @@
 #include<stdlib.h>
-#include <stdio.h>
-     
+#include <stdio.h>    
 void create();
 void display();
 void insert_begin();
